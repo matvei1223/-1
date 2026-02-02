@@ -1,9 +1,1 @@
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        mavenCentral()
-        maven { url = 'https://maven.fabricmc.net' }
-    }
-}
-
 rootProject.name = 'nbt-giver'
