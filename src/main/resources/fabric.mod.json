@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "nbtgiver",
+  "version": "${version}",
+  "name": "NBT Giver",
+  "description": "Server-authoritative NBT item giver with optional client GUI.",
+  "authors": [
+    "OpenAI"
+  ],
+  "contact": {
+    "sources": "https://example.com"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.nbtgiver.NbtGiverMod"
+    ],
+    "client": [
+      "com.example.nbtgiver.client.NbtGiverClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "fabric": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}

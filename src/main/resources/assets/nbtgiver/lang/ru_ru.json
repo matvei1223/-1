@@ -1,0 +1,13 @@
+{
+  "key.nbtgiver.open": "Открыть NBT выдачу",
+  "screen.nbtgiver.title": "NBT выдача",
+  "screen.nbtgiver.item_id": "Item ID",
+  "screen.nbtgiver.count": "Количество",
+  "screen.nbtgiver.nbt": "SNBT / NBT",
+  "screen.nbtgiver.validate": "Проверить",
+  "screen.nbtgiver.give": "Выдать",
+  "screen.nbtgiver.close": "Закрыть",
+  "screen.nbtgiver.status.ok": "OK",
+  "screen.nbtgiver.status.error": "Ошибка: %s",
+  "screen.nbtgiver.status.info": "%s"
+}
